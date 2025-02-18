@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react"
-import { ChevronDown, Bell } from "lucide-react"
+import { ChevronDown } from "lucide-react"
 
 const Navbar = () => {
   const [isAgentsOpen, setIsAgentsOpen] = useState(false)

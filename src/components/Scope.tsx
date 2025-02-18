@@ -1,4 +1,4 @@
-import { MapPin, Edit2, ArrowUpRight, Edit } from "lucide-react";
+import { MapPin, ArrowUpRight, Edit } from "lucide-react";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 
